@@ -1,0 +1,49 @@
+/*Agreguen sus colores y si le pueden mover algo para hacer commit*/
+
+* {
+    margin: 0;
+    border-radius: 10px;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+header,
+footer {
+    margin: 10px;
+    width: 1340px;
+    height: 100px;
+    background: #747474;
+    line-height: 100px;
+}
+
+aside {
+    margin: 10px;
+    width: 20%;
+}
+
+#primerAside {
+    height: 280px;
+    background: #6587b7;
+    line-height: 280px;
+}
+
+#segundoAside {
+    height: 150px;
+    background: #ff7477;
+    line-height: 150px;
+}
+
+main {
+    width: 77%;
+    height: 440px;
+    background: #ffc010;
+    position: absolute;
+    right: 15px;
+    top: 120px;
+    line-height: 500px;
+}
+
+footer {
+    background: #c3b6e2;
+}
